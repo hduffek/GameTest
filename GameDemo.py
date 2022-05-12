@@ -1,3 +1,6 @@
+# Original Idea: https://youtu.be/T_HMm8Tn4f8
+# Things Added: Shaders, Blocks/Objects, New Sky, Weapon, and Ground Textures
+
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 from ursina.shaders import lit_with_shadows_shader
